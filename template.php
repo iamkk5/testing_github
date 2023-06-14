@@ -1,3 +1,3 @@
 <?php
 
-echo "This is temple";
+echo "This is template";
