@@ -6,3 +6,4 @@ echo "Third line from Cli";
 echo "Third line from online";
 
 echo "Forth line from cli";
+echo "Forth line from online";
