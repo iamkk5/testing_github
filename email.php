@@ -9,3 +9,4 @@ echo "Forth line from cli";
 echo "Forth line from online";
 
 echo "Fifth line from online";
+echo "Fifth line from cli";
